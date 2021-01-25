@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229713508549",
+    "project_id": "guftagoo-d482a",
+    "storage_bucket": "guftagoo-d482a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229713508549:android:bae93be254b298680118ac",
+        "android_client_info": {
+          "package_name": "com.abhishekmaurya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229713508549-iqdbss75s2a4o21qrd8uojndmub3lrrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeFzYGmUCaPu--xmOQVXtHulZIl7IpJMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229713508549-iqdbss75s2a4o21qrd8uojndmub3lrrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
