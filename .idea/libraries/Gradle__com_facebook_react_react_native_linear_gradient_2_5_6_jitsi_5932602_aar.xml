@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-linear-gradient:2.5.6-jitsi-5932602@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9c547e06aaff8a06bf5beea9a928990/jetified-react-native-linear-gradient-2.5.6-jitsi-5932602/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29e95afb08391497246eefca30336b1f/jetified-react-native-linear-gradient-2.5.6-jitsi-5932602/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/efee02caa9be1fcde174e75f947031df/jetified-react-native-linear-gradient-2.5.6-jitsi-5932602/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/efee02caa9be1fcde174e75f947031df/jetified-react-native-linear-gradient-2.5.6-jitsi-5932602/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/efee02caa9be1fcde174e75f947031df/jetified-react-native-linear-gradient-2.5.6-jitsi-5932602/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-linear-gradient/2.5.6-jitsi-5932602/f50690fda0ba5e68171fece400b186b5a7c90846/react-native-linear-gradient-2.5.6-jitsi-5932602-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

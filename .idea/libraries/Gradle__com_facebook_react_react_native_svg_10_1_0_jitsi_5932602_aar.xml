@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-svg:10.1.0-jitsi-5932602@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdb608d95cdcada4245f9767f631ccb4/jetified-react-native-svg-10.1.0-jitsi-5932602/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8a7982da5a61fef96d13b5037c4267a/jetified-react-native-svg-10.1.0-jitsi-5932602/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/290acfdc78529aa6834df010ad36f1b8/jetified-react-native-svg-10.1.0-jitsi-5932602/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/290acfdc78529aa6834df010ad36f1b8/jetified-react-native-svg-10.1.0-jitsi-5932602/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/290acfdc78529aa6834df010ad36f1b8/jetified-react-native-svg-10.1.0-jitsi-5932602/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-svg/10.1.0-jitsi-5932602/9d18a2389d474967c818f2d58b6e13e165f2bf3e/react-native-svg-10.1.0-jitsi-5932602-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
